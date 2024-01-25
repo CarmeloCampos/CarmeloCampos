@@ -27,22 +27,34 @@
 
 <br>
 
-
 ### Technologies That I Know👨🏻‍💻
+<p align="center">
+  &emsp;
 <img align="left" src="https://skillicons.dev/icons?i=git,aws,bootstrap,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,androidstudio,astro,azure,bash,bun,cloudflare,cmake,deno,bots,electron,fastapi,githubactions,gitlab,gmail,heroku,jquery,laravel,lua,nginx,php,powershell,raspberrypi,symfony,terraform,vite,wordpress&perline=8" />
+  &emsp;
 <p align="right" >
   <img  height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 </p>
+</p>
+
 <br>
 
-### :zap: Github Stats
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=CarmeloCampos&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Sumanth's Github Stats" width="60%">
-<p align="right" >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarmeloCampos&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Sumanth's Top Languages">
-</p>
-<br>
+---
+
+<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+
+<p align="center">
+	  <img src="https://github-readme-stats.vercel.app/api?username=CarmeloCampos&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CarmeloCampos&langs_count=10&show_icons=true&locale=en&theme=tokyonight" height="230px"/>
+<br/>
+
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+</details>
+
 
 ## 🐍 A Snake Eating my Contributions Graph
+
 <p align="center">
 	<img src = "https://github.com/CarmeloCampos/CarmeloCampos/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
