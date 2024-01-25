@@ -29,7 +29,7 @@
 
 
 ### Technologies That I Know👨🏻‍💻
-<img align="left" src="https://skillicons.dev/icons?i=git,aws,bootstrap,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,androidstudio,astro,azure,bash,bun,cloudflare,cmake,deno,bots,electron,fastapi,githubactions,gitlab,gmail,heroku,jquery,laravel,lua,nginx,php,powershell,raspberrypi,symfony,terraform,vite,wordpress&perline=10" />
+<img align="left" src="https://skillicons.dev/icons?i=git,aws,bootstrap,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,androidstudio,astro,azure,bash,bun,cloudflare,cmake,deno,bots,electron,fastapi,githubactions,gitlab,gmail,heroku,jquery,laravel,lua,nginx,php,powershell,raspberrypi,symfony,terraform,vite,wordpress&perline=8" />
 <p align="right" >
   <img  height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 </p>
