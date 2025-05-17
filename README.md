@@ -27,14 +27,8 @@
 
 <br>
 
-### Technologies That I Know👨🏻‍💻
 <p align="center">
-  &emsp;
-<img align="left" src="https://skillicons.dev/icons?i=git,aws,discord,docker,express,firebase,github,html,idea,js,linux,mongodb,mysql,nodejs,postman,py,react,ts,astro,bash,bun,cloudflare,bots,electron,githubactions,gitlab,laravel,nginx,php,wordpress&perline=8" />
-  &emsp;
-<p align="right" >
   <img  height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-</p>
 </p>
 
 
